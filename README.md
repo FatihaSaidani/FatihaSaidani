@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FatihaSaidani
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript and Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me, email: fabzdz@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
